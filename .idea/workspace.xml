@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="end=&quot;&quot;">
-      <change afterPath="$PROJECT_DIR$/py_05062024/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_05062024/Lab006.py" afterDir="false" />
+    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Max function with number of arguments">
+      <change afterPath="$PROJECT_DIR$/py_05062024/Lab007.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_05062024/Lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_05062024/Lab006.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +44,7 @@
     "Python.Lab004.executor": "Run",
     "Python.Lab005.executor": "Run",
     "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -146,7 +147,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718095440997</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="# IndentationError : Unexpected error">
+      <option name="closed" value="true" />
+      <created>1718096139145</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1718096139145</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Max function with number of arguments">
+      <option name="closed" value="true" />
+      <created>1718096171570</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1718096171570</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -154,7 +171,9 @@
     <MESSAGE value="Lab2 simple arithmatic" />
     <MESSAGE value="Lab3 print functions arguments and sep" />
     <MESSAGE value="end=&quot;&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="end=&quot;&quot;" />
+    <MESSAGE value="# IndentationError : Unexpected error" />
+    <MESSAGE value="Max function with number of arguments" />
+    <option name="LAST_COMMIT_MESSAGE" value="Max function with number of arguments" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
