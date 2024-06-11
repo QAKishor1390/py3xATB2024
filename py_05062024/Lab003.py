@@ -16,6 +16,7 @@ print("Hello", "Kishor", 123, True, 3.14,sep="_")
 
 #end= '\n'
 print("Hello", "Kishor", 123, True, 3.14,sep="_",end="\t")
+print("Hello", "Kishor Shevkar", 123, True, 3.14,sep="_",end="\n")
 print("Hello", "Kishor", 123, True, 3.14,sep="_")
 
 
