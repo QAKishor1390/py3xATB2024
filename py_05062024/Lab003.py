@@ -6,20 +6,18 @@
 # end= '\n' - in the end what you want to do
 # file=None - File IO
 
-#args
+# args
 print("Hello", "Kishor", 123, True, 3.14)
-print("Hello", "Kishor","Shevkar",sep=" ")
+print("Hello", "Kishor", "Shevkar", sep=" ")
 
+# sep # default value is one space
+print("Hello", "Kishor", 123, True, 3.14, sep="_")
+print("Hello", "Kishor", 123, True, 3.14, sep="")
 
-#sep # default value is one space
-print("Hello", "Kishor", 123, True, 3.14,sep="_")
+# end= '\n'
+print("Hello", "Kishor", 123, True, 3.14, sep="_", end="\t")
+print("Hello", "Kishor Shevkar", 123, True, 3.14, sep="_", end="\n")
+print("Hello", "Kishor", 123, True, 3.14, sep="_")
+print("Hello,My name is Kishor")
 
-#end= '\n'
-print("Hello", "Kishor", 123, True, 3.14,sep="_",end="\t")
-print("Hello", "Kishor Shevkar", 123, True, 3.14,sep="_",end="\n")
-print("Hello", "Kishor", 123, True, 3.14,sep="_")
-
-
-
-
-# To follow proper intentation use the reformation
+ # To follow proper intentation use the reformation
