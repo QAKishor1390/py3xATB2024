@@ -18,18 +18,18 @@ x = 3
 y = 5
 print(x^y)
 
-Task #1
-Difference between = and == Operators in Python
-= Operator: This is the assignment operator. It is used to assign a value to a variable. For example, x = 5 assigns the value 5 to the variable x.
-
-== Operator: This is the equality operator. It is used to compare two values to see if they are equal. For example, x == 5 checks if the value of x is equal to 5.
-
-The ** Operator in Python
-The ** operator is the exponentiation operator. It is used to raise a number to the power of another number. For example, 2 ** 3 calculates (2) raised to the power of (3), which equals (8).
-The ^ Operator in Python
-The ^ operator is the bitwise XOR (exclusive OR) operator. It is used to compare each bit of two numbers and returns a new number whose bits are set to 1 where the corresponding bits of either but not both operands are 1. For example, 5 ^ 3 results in 6 because the binary representation of 5 is 101 and 3 is 011, and the XOR operation results in 110 which is 6 in decimal.
-Task #2
-Program to Calculate the Area of a Circle
+# Task #1
+# Difference between = and == Operators in Python
+# = Operator: This is the assignment operator. It is used to assign a value to a variable. For example, x = 5 assigns the value 5 to the variable x.
+#
+# == Operator: This is the equality operator. It is used to compare two values to see if they are equal. For example, x == 5 checks if the value of x is equal to 5.
+#
+# The ** Operator in Python
+# The ** operator is the exponentiation operator. It is used to raise a number to the power of another number. For example, 2 ** 3 calculates (2) raised to the power of (3), which equals (8).
+# The ^ Operator in Python
+# The ^ operator is the bitwise XOR (exclusive OR) operator. It is used to compare each bit of two numbers and returns a new number whose bits are set to 1 where the corresponding bits of either but not both operands are 1. For example, 5 ^ 3 results in 6 because the binary representation of 5 is 101 and 3 is 011, and the XOR operation results in 110 which is 6 in decimal.
+# Task #2
+# Program to Calculate the Area of a Circle
 def calculate_circle_area(radius):
 
     pi = 3.14
@@ -47,7 +47,7 @@ radius = float(input("Enter the radius of the circle: "))
 area = calculate_circle_area(radius)
 
 print(f"The area of the circle with radius {radius} is {area}")
-Program to Compare Two Numbers
+#Program to Compare Two Numbers
 def compare_numbers(num1, num2):
 
     if num1 > num2:
@@ -73,7 +73,7 @@ num2 = float(input("Enter the second number: "))
 result = compare_numbers(num1, num2)
 
 print(result)
-Program to Calculate the Square and Cube of a Number
+#Program to Calculate the Square and Cube of a Number
 def calculate_square_and_cube(number):
 
     square = number ** 2
