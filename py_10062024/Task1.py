@@ -14,3 +14,7 @@ print(x**y)
 # what does the ^ operator do in python and what contex is it commonly used?
 # It is Bitwise XOR operator
 # it compares each bit of two numbers
+
+x = 3
+y = 5
+print(x^y)
