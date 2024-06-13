@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Task 2 Leep Year">
-      <change afterPath="$PROJECT_DIR$/py_12062024/Task2_Triangle_Classifir.py" afterDir="false" />
+    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Task 2 : Triangle Classifier">
+      <change afterPath="$PROJECT_DIR$/py_12062024/Task3_Fibonacci.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
     "Python.Task1_LeepYear.executor": "Run",
     "Python.Task2.executor": "Run",
     "Python.Task2_Triangle_Classifir.executor": "Run",
+    "Python.Task3_Fibonacci.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -225,7 +226,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718264122918</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Task 2 : Triangle Classifier">
+      <option name="closed" value="true" />
+      <created>1718271890302</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1718271890302</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -240,7 +249,8 @@
     <MESSAGE value="Task1 &#10;by Pramod sir" />
     <MESSAGE value="Data types and input" />
     <MESSAGE value="Task 2 Leep Year" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 2 Leep Year" />
+    <MESSAGE value="Task 2 : Triangle Classifier" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 2 : Triangle Classifier" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
