@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Task 2 : Triangle Classifier">
-      <change afterPath="$PROJECT_DIR$/py_12062024/Task3_Fibonacci.py" afterDir="false" />
+    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Task 3 : Factorial">
+      <change afterPath="$PROJECT_DIR$/py_12062024/Task4_Fibonacci.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
     "Python.Task2.executor": "Run",
     "Python.Task2_Triangle_Classifir.executor": "Run",
     "Python.Task3_Fibonacci.executor": "Run",
+    "Python.Task4_Fibonacci.executor": "Debug",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -234,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718271890302</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Task 3 : Factorial">
+      <option name="closed" value="true" />
+      <created>1718272688471</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1718272688471</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -250,7 +259,8 @@
     <MESSAGE value="Data types and input" />
     <MESSAGE value="Task 2 Leep Year" />
     <MESSAGE value="Task 2 : Triangle Classifier" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 2 : Triangle Classifier" />
+    <MESSAGE value="Task 3 : Factorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 3 : Factorial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
