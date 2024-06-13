@@ -1,7 +1,7 @@
 # Task - Fibonacci series and Factorial
 # # 3. Factorial
 #
-# # n = 5
+# # n = 5/
 #
 # # 5! -->5*4*3*2*1 -> 120
 #
