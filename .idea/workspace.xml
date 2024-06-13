@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Data types and input">
-      <change afterPath="$PROJECT_DIR$/py_12062024/Task1_LeepYear.py" afterDir="false" />
+    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Task 2 Leep Year">
+      <change afterPath="$PROJECT_DIR$/py_12062024/Task2_Triangle_Classifir.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "Python.Task1.executor": "Run",
     "Python.Task1_LeepYear.executor": "Run",
     "Python.Task2.executor": "Run",
+    "Python.Task2_Triangle_Classifir.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -216,7 +217,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718187690029</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Task 2 Leep Year">
+      <option name="closed" value="true" />
+      <created>1718264122918</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1718264122918</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,7 +239,8 @@
     <MESSAGE value="Task2&#10;Theroy Part" />
     <MESSAGE value="Task1 &#10;by Pramod sir" />
     <MESSAGE value="Data types and input" />
-    <option name="LAST_COMMIT_MESSAGE" value="Data types and input" />
+    <MESSAGE value="Task 2 Leep Year" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 2 Leep Year" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
