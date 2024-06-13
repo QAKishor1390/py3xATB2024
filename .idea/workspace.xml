@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Task 3 : Factorial">
-      <change afterPath="$PROJECT_DIR$/py_12062024/Task4_Fibonacci.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Task 3 : Fibonacci">
+      <change beforePath="$PROJECT_DIR$/py_12062024/Task3_Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_12062024/Task3_Factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_12062024/Task4_Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_12062024/Task4_Fibonacci.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +52,7 @@
     "Python.Task2.executor": "Run",
     "Python.Task2_Triangle_Classifir.executor": "Run",
     "Python.Task3_Fibonacci.executor": "Run",
-    "Python.Task4_Fibonacci.executor": "Debug",
+    "Python.Task4_Fibonacci.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -243,7 +243,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718272688471</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Task 3 : Fibonacci">
+      <option name="closed" value="true" />
+      <created>1718277203555</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1718277203555</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -260,7 +268,8 @@
     <MESSAGE value="Task 2 Leep Year" />
     <MESSAGE value="Task 2 : Triangle Classifier" />
     <MESSAGE value="Task 3 : Factorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 3 : Factorial" />
+    <MESSAGE value="Task 3 : Fibonacci" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 3 : Fibonacci" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

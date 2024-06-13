@@ -9,3 +9,6 @@ for i in range(2, number):
     a = b
     b = c
     print(c)
+
+
+
