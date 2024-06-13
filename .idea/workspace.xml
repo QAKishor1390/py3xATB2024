@@ -4,12 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Task1 &#10;by Pramod sir">
-      <change afterPath="$PROJECT_DIR$/py_05062024/Lab0010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_05062024/Lab008.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_05062024/Lab009.py" afterDir="false" />
+    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Data types and input">
+      <change afterPath="$PROJECT_DIR$/py_12062024/Task1_LeepYear.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_05062024/Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_05062024/Lab007.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +48,7 @@
     "Python.Lab008.executor": "Run",
     "Python.Lab009.executor": "Run",
     "Python.Task1.executor": "Run",
+    "Python.Task1_LeepYear.executor": "Run",
     "Python.Task2.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -210,7 +208,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718184362460</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Data types and input">
+      <option name="closed" value="true" />
+      <created>1718187690029</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1718187690029</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -223,7 +229,8 @@
     <MESSAGE value="Task2&#10;- Squre and Cube &#10;- Find max number" />
     <MESSAGE value="Task2&#10;Theroy Part" />
     <MESSAGE value="Task1 &#10;by Pramod sir" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task1 &#10;by Pramod sir" />
+    <MESSAGE value="Data types and input" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data types and input" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
