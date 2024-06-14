@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Task 3 : Fibonacci">
-      <change beforePath="$PROJECT_DIR$/py_12062024/Task3_Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_12062024/Task3_Factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_12062024/Task4_Fibonacci.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_12062024/Task4_Fibonacci.py" afterDir="false" />
+    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Task 3 : Factorial">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,31 +33,31 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab0010.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab008.executor": "Run",
-    "Python.Lab009.executor": "Run",
-    "Python.Task1.executor": "Run",
-    "Python.Task1_LeepYear.executor": "Run",
-    "Python.Task2.executor": "Run",
-    "Python.Task2_Triangle_Classifir.executor": "Run",
-    "Python.Task3_Fibonacci.executor": "Run",
-    "Python.Task4_Fibonacci.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab0010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1_LeepYear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2_Triangle_Classifir.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task3_Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task4_Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="py3xATB2024" />
@@ -251,7 +250,31 @@
       <option name="project" value="LOCAL" />
       <updated>1718277203555</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Task 3 : Fibonacci">
+      <option name="closed" value="true" />
+      <created>1718277609104</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1718277609104</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Task 3 : Fibonacci">
+      <option name="closed" value="true" />
+      <created>1718277654132</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1718277654132</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Task 3 : Factorial">
+      <option name="closed" value="true" />
+      <created>1718277717319</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1718277717319</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -267,9 +290,9 @@
     <MESSAGE value="Data types and input" />
     <MESSAGE value="Task 2 Leep Year" />
     <MESSAGE value="Task 2 : Triangle Classifier" />
-    <MESSAGE value="Task 3 : Factorial" />
     <MESSAGE value="Task 3 : Fibonacci" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 3 : Fibonacci" />
+    <MESSAGE value="Task 3 : Factorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 3 : Factorial" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
