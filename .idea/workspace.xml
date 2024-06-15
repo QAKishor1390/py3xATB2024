@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Addition of 2 number">
-      <change afterPath="$PROJECT_DIR$/py_07062024/Lan12.py" afterDir="false" />
+    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="String">
+      <change afterPath="$PROJECT_DIR$/py_07062024/Lab13.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_07062024/Lab12.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_07062024/Lab12.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,8 @@
     "Python.Lab008.executor": "Run",
     "Python.Lab009.executor": "Run",
     "Python.Lab11.executor": "Run",
+    "Python.Lab12.executor": "Run",
+    "Python.Lab13.executor": "Run",
     "Python.Lan12.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task1_LeepYear.executor": "Run",
@@ -288,7 +291,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718444773937</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="String">
+      <option name="closed" value="true" />
+      <created>1718448991007</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1718448991007</updated>
+    </task>
+    <task id="LOCAL-00025" summary="String">
+      <option name="closed" value="true" />
+      <created>1718449029264</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1718449029264</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -307,7 +326,8 @@
     <MESSAGE value="Task 3 : Fibonacci" />
     <MESSAGE value="Task 3 : Factorial" />
     <MESSAGE value="Addition of 2 number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Addition of 2 number" />
+    <MESSAGE value="String" />
+    <option name="LAST_COMMIT_MESSAGE" value="String" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

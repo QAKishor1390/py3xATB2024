@@ -9,3 +9,5 @@ last_name='Shevkar'
 print(first_name+" "+last_name)
 print(first_name,last_name)
 print(f'your full name is {first_name} {last_name}')
+# f -> formatting - it will replace the values of the variables
+# {} -> placeholders
