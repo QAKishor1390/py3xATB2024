@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Task 3 : Factorial">
-      <change afterPath="$PROJECT_DIR$/py_07062024/Lab11.py" afterDir="false" />
+    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Addition of 2 number">
+      <change afterPath="$PROJECT_DIR$/py_07062024/Lan12.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +51,7 @@
     "Python.Lab008.executor": "Run",
     "Python.Lab009.executor": "Run",
     "Python.Lab11.executor": "Run",
+    "Python.Lan12.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task1_LeepYear.executor": "Run",
     "Python.Task2.executor": "Run",
@@ -279,7 +280,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718277717319</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Addition of 2 number">
+      <option name="closed" value="true" />
+      <created>1718444773937</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1718444773937</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -297,7 +306,8 @@
     <MESSAGE value="Task 2 : Triangle Classifier" />
     <MESSAGE value="Task 3 : Fibonacci" />
     <MESSAGE value="Task 3 : Factorial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 3 : Factorial" />
+    <MESSAGE value="Addition of 2 number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Addition of 2 number" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
