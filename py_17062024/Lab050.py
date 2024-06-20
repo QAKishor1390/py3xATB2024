@@ -31,10 +31,21 @@ print(result)
 # say_hello_arg("Kishor")
 # say_hello_arg("Nitya")
 
-def say_hello_default(name="Kishor"): #No return type and with default argument
-    print("Hello",name)
+def say_hello_default(name="Kishor"):  # No return type and with default argument
+    print("Hello", name)
 
 
 say_hello_default()
 say_hello_default("Isha")
 say_hello_default(name="Yami")
+
+
+# argumrnt + return type
+
+def sum_number_arg_ret(a, b):
+    return a + b
+
+
+result = sum_number_arg_ret(7, 7)
+result = sum_number_arg_ret(a=44, b=88)
+print(result)
