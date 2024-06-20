@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="table">
-      <change afterPath="$PROJECT_DIR$/py_17062024/Lab050.py" afterDir="false" />
+    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Function define and call">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_17062024/Lab050.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_17062024/Lab050.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -340,7 +340,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718867178928</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Function define and call">
+      <option name="closed" value="true" />
+      <created>1718868813250</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1718868813250</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Function define and call">
+      <option name="closed" value="true" />
+      <created>1718873640332</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1718873640332</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -361,7 +377,8 @@
     <MESSAGE value="Addition of 2 number" />
     <MESSAGE value="String" />
     <MESSAGE value="table" />
-    <option name="LAST_COMMIT_MESSAGE" value="table" />
+    <MESSAGE value="Function define and call" />
+    <option name="LAST_COMMIT_MESSAGE" value="Function define and call" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
