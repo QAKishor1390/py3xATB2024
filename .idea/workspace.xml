@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Function define and call">
+    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Function define and call&#10;- no argument&#10;- with argument&#10;- default argument&#10;- argumrnt + return type">
+      <change afterPath="$PROJECT_DIR$/py_17062024/Lab051.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_17062024/Lab050.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_17062024/Lab050.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -356,7 +356,23 @@
       <option name="project" value="LOCAL" />
       <updated>1718873640332</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Function define and call&#10;- no argument&#10;- with argument&#10;- default argument">
+      <option name="closed" value="true" />
+      <created>1718874242886</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1718874242886</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Function define and call&#10;- no argument&#10;- with argument&#10;- default argument&#10;- argumrnt + return type">
+      <option name="closed" value="true" />
+      <created>1718874938000</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1718874938000</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -378,7 +394,9 @@
     <MESSAGE value="String" />
     <MESSAGE value="table" />
     <MESSAGE value="Function define and call" />
-    <option name="LAST_COMMIT_MESSAGE" value="Function define and call" />
+    <MESSAGE value="Function define and call&#10;- no argument&#10;- with argument&#10;- default argument" />
+    <MESSAGE value="Function define and call&#10;- no argument&#10;- with argument&#10;- default argument&#10;- argumrnt + return type" />
+    <option name="LAST_COMMIT_MESSAGE" value="Function define and call&#10;- no argument&#10;- with argument&#10;- default argument&#10;- argumrnt + return type" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
