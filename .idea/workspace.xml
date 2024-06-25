@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Function define and call&#10;- no argument&#10;- with argument&#10;- default argument&#10;- argumrnt + return type">
-      <change afterPath="$PROJECT_DIR$/py_21062024/Lab080.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_21062024/Lab081.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Tuples :&#10;- Tuple , Tuple conversion&#10;- Tuple within tuple">
+      <change afterPath="$PROJECT_DIR$/py_21062024/Lab082.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_21062024/Lab081.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_21062024/Lab081.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +53,7 @@
     "Python.Lab014.executor": "Run",
     "Python.Lab050.executor": "Run",
     "Python.Lab080.executor": "Run",
+    "Python.Lab081.executor": "Run",
     "Python.Lab11.executor": "Run",
     "Python.Lab12.executor": "Run",
     "Python.Lab13.executor": "Run",
@@ -382,7 +382,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718970805488</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Tuples :&#10;- Tuple , Tuple conversion&#10;- Tuple within tuple">
+      <option name="closed" value="true" />
+      <created>1719313639334</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1719313639334</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -406,7 +414,8 @@
     <MESSAGE value="Function define and call" />
     <MESSAGE value="Function define and call&#10;- no argument&#10;- with argument&#10;- default argument" />
     <MESSAGE value="Function define and call&#10;- no argument&#10;- with argument&#10;- default argument&#10;- argumrnt + return type" />
-    <option name="LAST_COMMIT_MESSAGE" value="Function define and call&#10;- no argument&#10;- with argument&#10;- default argument&#10;- argumrnt + return type" />
+    <MESSAGE value="Tuples :&#10;- Tuple , Tuple conversion&#10;- Tuple within tuple" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tuples :&#10;- Tuple , Tuple conversion&#10;- Tuple within tuple" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
