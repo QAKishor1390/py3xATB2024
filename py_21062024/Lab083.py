@@ -9,3 +9,7 @@ print(list)
 set1 = set(list)
 print(set1)
 print(len(set1))
+
+
+t=("Kishor","Nitya","Kishor")
+print(set(t))

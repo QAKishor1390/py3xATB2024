@@ -5,3 +5,6 @@ print(tuple3)
 print(tuple1[1])
 print(tuple2[2])
 
+#Search in Tuple
+print("Kishor" in tuple1)
+

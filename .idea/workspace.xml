@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Tuples :&#10;- Tuple , Tuple conversion&#10;- Tuple within tuple">
-      <change afterPath="$PROJECT_DIR$/py_21062024/Lab083.py" afterDir="false" />
+    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="SET">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/py_21062024/Lab081.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_21062024/Lab081.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_21062024/Lab082.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_21062024/Lab082.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_21062024/Lab083.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_21062024/Lab083.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,41 +38,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab0010.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab008.executor": "Run",
-    "Python.Lab009.executor": "Run",
-    "Python.Lab014.executor": "Run",
-    "Python.Lab050.executor": "Run",
-    "Python.Lab080.executor": "Run",
-    "Python.Lab081.executor": "Run",
-    "Python.Lab082.executor": "Run",
-    "Python.Lab083.executor": "Run",
-    "Python.Lab11.executor": "Run",
-    "Python.Lab12.executor": "Run",
-    "Python.Lab13.executor": "Run",
-    "Python.Lan12.executor": "Run",
-    "Python.Task1.executor": "Run",
-    "Python.Task1_LeepYear.executor": "Run",
-    "Python.Task2.executor": "Run",
-    "Python.Task2_Triangle_Classifir.executor": "Run",
-    "Python.Task3_Fibonacci.executor": "Run",
-    "Python.Task4_Fibonacci.executor": "Run",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab0010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab050.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab080.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab081.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab082.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab083.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lan12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1_LeepYear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2_Triangle_Classifir.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task3_Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task4_Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="py3xATB2024" />
@@ -402,7 +401,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719313945735</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="SET">
+      <option name="closed" value="true" />
+      <created>1719317206801</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1719317206801</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -427,7 +434,8 @@
     <MESSAGE value="Function define and call&#10;- no argument&#10;- with argument&#10;- default argument" />
     <MESSAGE value="Function define and call&#10;- no argument&#10;- with argument&#10;- default argument&#10;- argumrnt + return type" />
     <MESSAGE value="Tuples :&#10;- Tuple , Tuple conversion&#10;- Tuple within tuple" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tuples :&#10;- Tuple , Tuple conversion&#10;- Tuple within tuple" />
+    <MESSAGE value="SET" />
+    <option name="LAST_COMMIT_MESSAGE" value="SET" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
