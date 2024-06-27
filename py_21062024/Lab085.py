@@ -3,7 +3,7 @@ def say_hello(name):
     print("Hello",name)
 
 
-say_hello("Kishor")
+
 
 def add(a,b):
     sum=a+b
@@ -11,5 +11,6 @@ def add(a,b):
 
 
 add(3,5)
+say_hello("Kishor")
 
 
