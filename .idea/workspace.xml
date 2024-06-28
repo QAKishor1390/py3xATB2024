@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="pattern1">
-      <change afterPath="$PROJECT_DIR$/py_21062024/Lab090.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Dict1">
+      <change afterPath="$PROJECT_DIR$/py_21062024/Task1_Pattern.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +68,7 @@
     "Python.Lan12.executor": "Run",
     "Python.Task1.executor": "Run",
     "Python.Task1_LeepYear.executor": "Run",
+    "Python.Task1_Pattern.executor": "Run",
     "Python.Task2.executor": "Run",
     "Python.Task2_Triangle_Classifir.executor": "Run",
     "Python.Task3_Fibonacci.executor": "Run",
@@ -464,11 +464,18 @@
       <option name="project" value="LOCAL" />
       <updated>1719491015391</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Dict1">
+      <option name="closed" value="true" />
+      <created>1719557326592</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1719557326592</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lb001" />
     <MESSAGE value="Lab2 simple arithmatic" />
     <MESSAGE value="Lab3 print functions arguments and sep" />
     <MESSAGE value="end=&quot;&quot;" />
@@ -493,7 +500,8 @@
     <MESSAGE value="Add function" />
     <MESSAGE value="Time Function with decorator function" />
     <MESSAGE value="Dict" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dict" />
+    <MESSAGE value="Dict1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dict1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
