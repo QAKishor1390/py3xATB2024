@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Dict1">
-      <change afterPath="$PROJECT_DIR$/py_21062024/Task1_Pattern.py" afterDir="false" />
+    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="# wap for following pattern&#10;# *&#10;# * *&#10;# * * *&#10;# * * * *&#10;# * * * * *">
+      <change afterPath="$PROJECT_DIR$/py_22072024/test_Lab170.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_12062024/pattern001.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_12062024/pattern001.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +41,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for test_Lab170.test_addition.executor": "Run",
+    "Python tests.Python tests for test_Lab170.test_addition1.executor": "Run",
     "Python.Lab001.executor": "Run",
     "Python.Lab0010.executor": "Run",
     "Python.Lab002.executor": "Run",
@@ -80,7 +84,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python tests.Python tests for test_Lab170.test_addition1">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="py3xATB2024" />
       <option name="ENV_FILES" value="" />
@@ -103,6 +107,42 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Python tests for test_Lab170.test_addition" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="py3xATB2024" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py_22072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab170.test_addition&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_Lab170.test_addition1" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="py3xATB2024" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py_22072024" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_Lab170.test_addition1&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_Lab170.test_addition1" />
+        <item itemvalue="Python tests.Python tests for test_Lab170.test_addition" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -472,11 +512,18 @@
       <option name="project" value="LOCAL" />
       <updated>1719557326592</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="# wap for following pattern&#10;# *&#10;# * *&#10;# * * *&#10;# * * * *&#10;# * * * * *">
+      <option name="closed" value="true" />
+      <created>1719558428160</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1719558428160</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lab2 simple arithmatic" />
     <MESSAGE value="Lab3 print functions arguments and sep" />
     <MESSAGE value="end=&quot;&quot;" />
     <MESSAGE value="# IndentationError : Unexpected error" />
@@ -501,7 +548,8 @@
     <MESSAGE value="Time Function with decorator function" />
     <MESSAGE value="Dict" />
     <MESSAGE value="Dict1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dict1" />
+    <MESSAGE value="# wap for following pattern&#10;# *&#10;# * *&#10;# * * *&#10;# * * * *&#10;# * * * * *" />
+    <option name="LAST_COMMIT_MESSAGE" value="# wap for following pattern&#10;# *&#10;# * *&#10;# * * *&#10;# * * * *&#10;# * * * * *" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
