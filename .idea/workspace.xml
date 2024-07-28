@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="# wap for following pattern&#10;# *&#10;# * *&#10;# * * *&#10;# * * * *&#10;# * * * * *">
-      <change afterPath="$PROJECT_DIR$/py_22072024/test_Lab170.py" afterDir="false" />
+    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Pytest Framework.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_12062024/pattern001.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_12062024/pattern001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_21062024/Lab090.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_21062024/Lab090.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_22072024/test_Lab170.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_22072024/test_Lab170.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,53 +38,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python tests.Python tests for test_Lab170.test_addition.executor": "Run",
-    "Python tests.Python tests for test_Lab170.test_addition1.executor": "Run",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab0010.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab008.executor": "Run",
-    "Python.Lab009.executor": "Run",
-    "Python.Lab014.executor": "Run",
-    "Python.Lab050.executor": "Run",
-    "Python.Lab080.executor": "Run",
-    "Python.Lab081.executor": "Run",
-    "Python.Lab082.executor": "Run",
-    "Python.Lab083.executor": "Run",
-    "Python.Lab084.executor": "Run",
-    "Python.Lab085.executor": "Run",
-    "Python.Lab086_Decorators.executor": "Run",
-    "Python.Lab088_Dict.executor": "Run",
-    "Python.Lab089_Dict.executor": "Run",
-    "Python.Lab090.executor": "Run",
-    "Python.Lab11.executor": "Run",
-    "Python.Lab12.executor": "Run",
-    "Python.Lab13.executor": "Run",
-    "Python.Lab_087_timeFunction.executor": "Run",
-    "Python.Lan12.executor": "Run",
-    "Python.Task1.executor": "Run",
-    "Python.Task1_LeepYear.executor": "Run",
-    "Python.Task1_Pattern.executor": "Run",
-    "Python.Task2.executor": "Run",
-    "Python.Task2_Triangle_Classifir.executor": "Run",
-    "Python.Task3_Fibonacci.executor": "Run",
-    "Python.Task4_Fibonacci.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.pattern001.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test_Lab170.test_addition.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab170.test_addition1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab170.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab0010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab050.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab080.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab081.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab082.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab083.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab084.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab085.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab086_Decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab088_Dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab089_Dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab090.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_087_timeFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lan12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1_LeepYear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1_Pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2_Triangle_Classifir.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task3_Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task4_Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pattern001.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Python tests.Python tests for test_Lab170.test_addition1">
+}</component>
+  <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="py3xATB2024" />
       <option name="ENV_FILES" value="" />
@@ -520,11 +521,18 @@
       <option name="project" value="LOCAL" />
       <updated>1719558428160</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Pytest Framework">
+      <option name="closed" value="true" />
+      <created>1721737391963</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1721737391963</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lab3 print functions arguments and sep" />
     <MESSAGE value="end=&quot;&quot;" />
     <MESSAGE value="# IndentationError : Unexpected error" />
     <MESSAGE value="Max function with number of arguments" />
@@ -549,7 +557,8 @@
     <MESSAGE value="Dict" />
     <MESSAGE value="Dict1" />
     <MESSAGE value="# wap for following pattern&#10;# *&#10;# * *&#10;# * * *&#10;# * * * *&#10;# * * * * *" />
-    <option name="LAST_COMMIT_MESSAGE" value="# wap for following pattern&#10;# *&#10;# * *&#10;# * * *&#10;# * * * *&#10;# * * * * *" />
+    <MESSAGE value="Pytest Framework" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pytest Framework" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

@@ -15,5 +15,5 @@ def test_mul():
     # - Assert - Actual result == expected result
 
     # ### How to run the Pytest ?
-    # - open
-    # #cmd -> go the  folder - pytest
+ # Open terminal > pytest and copy the file absulate path past and run
+ #  pytest C:\Users\KISHOR\PycharmProjects\py3xATB2024\py_22072024\test_Lab170.py

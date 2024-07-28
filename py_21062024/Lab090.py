@@ -16,3 +16,4 @@ for k,v in my_dict.items():
     print(len(my_dict))
     print(type(k))
     print(type(v))
+
