@@ -8,6 +8,10 @@ def test_subtraction():
 def test_mul():
         assert 8 * 4 == 32
 
+
+def test_div():
+        assert 8 / 4 == 2
+
     ### //pytest framework
     # - pip install pytest
     # - File name - test_name.py (test_Lab170)
