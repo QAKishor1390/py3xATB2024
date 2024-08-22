@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="Pytest Framework.">
-      <change afterPath="$PROJECT_DIR$/py_12082024/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_12082024/test_project1_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_22072024/test_Lab184.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/py_22072024/test_demo_webdriver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/py_22072024/test_Lab170.py" beforeDir="false" afterPath="$PROJECT_DIR$/py_22072024/test_Lab170.py" afterDir="false" />
-    </list>
+    <list default="true" id="bb420066-8d8f-4045-a294-33bb9990ad7c" name="Changes" comment="Pytest Framework." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;QAKishor1390&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/QAKishor1390/py3xATB2024.git&quot;,
+    &quot;accountId&quot;: &quot;828bf43a-6bda-4503-a97c-8e941d62e094&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/py_07062024/Lab11.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -41,55 +46,61 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python tests.Python tests for test_Lab170.test_addition.executor": "Run",
-    "Python tests.Python tests for test_Lab170.test_addition1.executor": "Run",
-    "Python tests.Python tests in test_Lab170.py.executor": "Run",
-    "Python tests.Python tests in test_demo_webdriver.py.executor": "Run",
-    "Python tests.Python tests in test_project1_login.py.executor": "Run",
-    "Python.Lab001.executor": "Run",
-    "Python.Lab0010.executor": "Run",
-    "Python.Lab002.executor": "Run",
-    "Python.Lab003.executor": "Run",
-    "Python.Lab004.executor": "Run",
-    "Python.Lab005.executor": "Run",
-    "Python.Lab006.executor": "Run",
-    "Python.Lab007.executor": "Run",
-    "Python.Lab008.executor": "Run",
-    "Python.Lab009.executor": "Run",
-    "Python.Lab014.executor": "Run",
-    "Python.Lab050.executor": "Run",
-    "Python.Lab080.executor": "Run",
-    "Python.Lab081.executor": "Run",
-    "Python.Lab082.executor": "Run",
-    "Python.Lab083.executor": "Run",
-    "Python.Lab084.executor": "Run",
-    "Python.Lab085.executor": "Run",
-    "Python.Lab086_Decorators.executor": "Run",
-    "Python.Lab088_Dict.executor": "Run",
-    "Python.Lab089_Dict.executor": "Run",
-    "Python.Lab090.executor": "Run",
-    "Python.Lab11.executor": "Run",
-    "Python.Lab12.executor": "Run",
-    "Python.Lab13.executor": "Run",
-    "Python.Lab_087_timeFunction.executor": "Run",
-    "Python.Lan12.executor": "Run",
-    "Python.Task1.executor": "Run",
-    "Python.Task1_LeepYear.executor": "Run",
-    "Python.Task1_Pattern.executor": "Run",
-    "Python.Task2.executor": "Run",
-    "Python.Task2_Triangle_Classifir.executor": "Run",
-    "Python.Task3_Fibonacci.executor": "Run",
-    "Python.Task4_Fibonacci.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.pattern001.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test_Lab170.test_addition.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test_Lab170.test_addition1.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_002.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_003.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_Lab170.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_allure.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_demo_webdriver.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_project1_login.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests in test_selenium_waits1.py.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab0010.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab003.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab004.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab005.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab006.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab007.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab008.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab009.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab014.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab050.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab080.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab081.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab082.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab083.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab084.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab085.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab086_Decorators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab088_Dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab089_Dict.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab090.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lab_087_timeFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Lan12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1_LeepYear.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task1_Pattern.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task2_Triangle_Classifir.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task3_Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Task4_Fibonacci.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pattern001.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/KISHOR/Desktop/test git&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="py3xATB2024" />
@@ -145,22 +156,22 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_Lab170.test_addition1" />
         <item itemvalue="Python tests.Python tests for test_Lab170.test_addition" />
+        <item itemvalue="Python tests.Python tests for test_Lab170.test_addition1" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-eebebe6c2be4-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15325.20" />
+        <option value="bundled-python-sdk-ce3d9afa04ac-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.20224.347" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e12af7ec-7255-4ede-b86f-f3c5d3ad4789" name="Changes" comment="" />
+      <changelist id="bb420066-8d8f-4045-a294-33bb9990ad7c" name="Changes" comment="Pytest Framework." />
       <created>1718000826292</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -542,8 +553,27 @@
       <option name="project" value="LOCAL" />
       <updated>1722150694121</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Pytest Framework.">
+      <option name="closed" value="true" />
+      <created>1723460352874</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1723460352874</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="# IndentationError : Unexpected error" />
